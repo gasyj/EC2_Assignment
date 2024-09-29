@@ -143,6 +143,12 @@ This repository contains the documentation for my AWS EC2 assignment, where I us
 
 
 ---
+### 12. **Connection to RDP**
+- **Description**: Successfully connected to the instance via RDP.
+- **Screenshot**:
+![RDP Page](https://github.com/user-attachments/assets/1da15a50-fdb2-4705-8c8b-de55a4a159ae)
+![Accessing_the_internet_via_EC2Instance](https://github.com/user-attachments/assets/e815b51b-0c6c-49bd-8851-422a517b5ded)
 
+---
 ## **Conclusion**
 This documentation details the steps taken to complete the AWS EC2 assignment using key AWS services. Each task demonstrates essential cloud infrastructure management, including networking, security, and scaling, which are critical for building highly available and cost-efficient cloud applications.
