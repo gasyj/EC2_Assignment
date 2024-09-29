@@ -34,6 +34,8 @@ This repository contains the documentation for my AWS EC2 assignment, where I us
 
 - **Screenshot**:
 ![AMI_and_Instance_type_Selected](https://github.com/user-attachments/assets/9a39f58e-703b-4bc5-a752-85a1d5fa4506)
+![Navitagting_to_EC2](https://github.com/user-attachments/assets/eb5336e0-87a8-42d3-b448-076bd920b165)
+![Launching_instance](https://github.com/user-attachments/assets/49a83f44-2ec1-4740-bf71-229fb53ddfa4)
 
 
 ---
@@ -118,21 +120,27 @@ This repository contains the documentation for my AWS EC2 assignment, where I us
 
 ### 10. **Monitoring and Logs**
 - **Description**: Used Amazon CloudWatch to monitor EC2 instance performance and set up alerts.
-- **Steps**:
   1. Enabled CloudWatch monitoring for the instance.
   2. Configured alarms to monitor CPU usage.
 
-- **Screenshot**: ![CloudWatch Monitoring Screenshot](URL_to_image)
+- **Screenshot**:
+![Navigating_to_CloudWatch](https://github.com/user-attachments/assets/42822c76-8cbd-4313-ae93-e3d590e1ebd7)
+![EC2_Cloudwatch_dashboard](https://github.com/user-attachments/assets/a731d950-ad93-40ac-b46c-952277c5fba1)
+
 
 ---
 
 ### 11. **Load Balancer**
 - **Description**: Set up an Application Load Balancer to distribute incoming traffic across multiple EC2 instances.
-- **Steps**:
+
   1. Created an Application Load Balancer.
   2. Configured a target group and registered EC2 instances to balance incoming traffic.
   
-- **Screenshot**: ![Load Balancer Screenshot](URL_to_image)
+- **Screenshot**:
+![LoadBalancer_NetworkSettings](https://github.com/user-attachments/assets/5b27796b-f51d-430c-aeb2-f685e1f84591)
+![LB_securitygroup](https://github.com/user-attachments/assets/66357720-251b-4728-b8a7-8a7942d3437e)
+![Creating_LoadBalancer](https://github.com/user-attachments/assets/14fba0fc-c960-472b-b752-ab9c05c660c2)
+
 
 ---
 
