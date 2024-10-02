@@ -149,6 +149,11 @@ This repository contains the documentation for my AWS EC2 assignment, where I us
 ![RDP Page](https://github.com/user-attachments/assets/1da15a50-fdb2-4705-8c8b-de55a4a159ae)
 ![Accessing_the_internet_via_EC2Instance](https://github.com/user-attachments/assets/e815b51b-0c6c-49bd-8851-422a517b5ded)
 
+![Git_image](https://github.com/user-attachments/assets/f320e00b-2eee-4d64-8f94-15abcf4dcad0)
+![Git_image](https://github.com/user-attachments/assets/6ebe1859-395a-4d05-9cb0-bfa700c8aa1d)
+
+
+
 ---
 ## **Conclusion**
 This documentation details the steps taken to complete the AWS EC2 assignment using key AWS services. Each task demonstrates essential cloud infrastructure management, including networking, security, and scaling, which are critical for building highly available and cost-efficient cloud applications.
